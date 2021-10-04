@@ -2,7 +2,7 @@
 
 # Hi, we’re Sparksuite 👋
 
-We’re a small team with a relentless focus on mighty fine software. Day-to-day we’re building industry-leading software companies like [HOA Express](https://www.hoa-express.com/) and [GradePro](https://gradepro.app/). These companies wouldn’t be what they are today with the myriad of open source libraries, tools, and technologies they rely on. To give back, we’ve open sourced a number of tools that solve problems our own engineers have run into.
+We’re a small team with a relentless focus on mighty fine software. Day-to-day we’re building industry-leading software companies like [HOA Express](https://www.hoa-express.com/) and [GradePro](https://gradepro.app/). These companies wouldn’t be what they are today without the myriad of open source libraries, tools, and technologies they rely on. To give back, we’ve open sourced a number of tools that solve problems our own engineers have run into.
 
 ## 😃 Company culture
 
